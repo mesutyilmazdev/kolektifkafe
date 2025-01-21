@@ -10,7 +10,7 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
-       <GoogleAnalytics gaId="G-XYZ" /> {/* Google Analiytics kodu eklenecek */}
+       <GoogleAnalytics gaId="G-NLQG2QJMWB" />
     </Html>
   );
 }
