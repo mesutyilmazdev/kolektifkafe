@@ -5,11 +5,12 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 export default function Document() {
   return (
     <Html lang="tr">
-      <Head />
+      <Head>
+      <GoogleAnalytics gaId="G-NLQG2QJMWB" />
+      </Head>
       <body className="antialiased">
         <Main />
         <NextScript />
-       <GoogleAnalytics gaId="G-NLQG2QJMWB" />
       </body>
     </Html>
   );
