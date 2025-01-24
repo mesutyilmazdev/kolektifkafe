@@ -48,7 +48,7 @@ export default function Wcoffee() {
                 <Card className="rounded-xl bg-white shadow-lg shadow-gray-300 overflow-hidden">
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
-                        <h4 className="text-base font-bold">AMERICANO <span className="font-thin text-slate-500">(Iced orange)</span></h4>
+                        <h4 className="text-base font-bold">ORANGE AMERICANO</h4>
                         <h6 className="font-bold text-xl">150 ₺</h6>
                     </CardHeader>
                 </Card>
