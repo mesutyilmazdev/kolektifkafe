@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   '@next/third-parties':
-    specifier: ^15.1.5
+    specifier: ^15.1.4
     version: 15.1.5(next@15.1.5)(react@19.0.0-rc-66855b96-20241106)
   '@radix-ui/react-scroll-area':
     specifier: ^1.2.2
@@ -30,16 +30,16 @@ dependencies:
     specifier: ^2.1.1
     version: 2.1.1
   framer-motion:
-    specifier: ^11.18.2
+    specifier: ^11.16.1
     version: 11.18.2(react-dom@19.0.0-rc-66855b96-20241106)(react@19.0.0-rc-66855b96-20241106)
+  google:
+    specifier: link:@next/third-parties/google
+    version: link:@next/third-parties/google
   lucide-react:
     specifier: ^0.469.0
     version: 0.469.0(react@19.0.0-rc-66855b96-20241106)
-  motion:
-    specifier: ^11.18.2
-    version: 11.18.2(react-dom@19.0.0-rc-66855b96-20241106)(react@19.0.0-rc-66855b96-20241106)
   next:
-    specifier: ^15.1.5
+    specifier: ^15.1.4
     version: 15.1.5(react-dom@19.0.0-rc-66855b96-20241106)(react@19.0.0-rc-66855b96-20241106)
   react:
     specifier: 19.0.0-rc-66855b96-20241106
@@ -56,22 +56,22 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: ^20.17.14
+    specifier: ^20
     version: 20.17.14
   '@types/react':
-    specifier: ^18.3.18
+    specifier: ^18
     version: 18.3.18
   '@types/react-dom':
-    specifier: ^18.3.5
+    specifier: ^18
     version: 18.3.5(@types/react@18.3.18)
   postcss:
-    specifier: ^8.5.1
+    specifier: ^8
     version: 8.5.1
   tailwindcss:
-    specifier: ^3.4.17
+    specifier: ^3.4.1
     version: 3.4.17
   typescript:
-    specifier: ^5.7.3
+    specifier: ^5
     version: 5.7.3
 
 packages:
@@ -818,6 +818,7 @@ packages:
 
   /color-name@1.1.4:
     resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==}
+    requiresBuild: true
 
   /color-string@1.9.1:
     resolution: {integrity: sha512-shrVawQFojnZv6xM40anx4CkoDP+fZsw/ZerEMsW/pyzsRbElpsL/DBVW7q3ExxwusdNXI3lXpuhEZkzs8p5Eg==}
@@ -1065,26 +1066,6 @@ packages:
 
   /motion-utils@11.18.1:
     resolution: {integrity: sha512-49Kt+HKjtbJKLtgO/LKj9Ld+6vw9BjH5d9sc40R/kVyH8GLAXgT42M2NnuPcJNuA3s9ZfZBUcwIgpmZWGEE+hA==}
-    dev: false
-
-  /motion@11.18.2(react-dom@19.0.0-rc-66855b96-20241106)(react@19.0.0-rc-66855b96-20241106):
-    resolution: {integrity: sha512-JLjvFDuFr42NFtcVoMAyC2sEjnpA8xpy6qWPyzQvCloznAyQ8FIXioxWfHiLtgYhoVpfUqSWpn1h9++skj9+Wg==}
-    peerDependencies:
-      '@emotion/is-prop-valid': '*'
-      react: ^18.0.0 || ^19.0.0
-      react-dom: ^18.0.0 || ^19.0.0
-    peerDependenciesMeta:
-      '@emotion/is-prop-valid':
-        optional: true
-      react:
-        optional: true
-      react-dom:
-        optional: true
-    dependencies:
-      framer-motion: 11.18.2(react-dom@19.0.0-rc-66855b96-20241106)(react@19.0.0-rc-66855b96-20241106)
-      react: 19.0.0-rc-66855b96-20241106
-      react-dom: 19.0.0-rc-66855b96-20241106(react@19.0.0-rc-66855b96-20241106)
-      tslib: 2.8.1
     dev: false
 
   /mz@2.7.0:

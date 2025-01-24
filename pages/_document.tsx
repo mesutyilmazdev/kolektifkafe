@@ -9,8 +9,8 @@ export default function Document() {
       <body className="antialiased">
         <Main />
         <NextScript />
-      </body>
        <GoogleAnalytics gaId="G-NLQG2QJMWB" />
+      </body>
     </Html>
   );
 }
