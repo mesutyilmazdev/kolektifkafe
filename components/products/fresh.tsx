@@ -40,6 +40,14 @@ export default function Fresh() {
                 <Card className="rounded-xl bg-white shadow-lg shadow-gray-300 overflow-hidden">
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
+                        <h4 className="text-base font-bold">NARCHILL</h4>
+                        <h6 className="font-bold text-xl">85 ₺</h6>
+                    </CardHeader>
+                </Card>
+
+                <Card className="rounded-xl bg-white shadow-lg shadow-gray-300 overflow-hidden">
+                    <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
+                    <CardHeader>
                         <h4 className="text-base font-bold">LİMONATA</h4>
                         <h6 className="font-bold text-xl">110 ₺</h6>
                     </CardHeader>
