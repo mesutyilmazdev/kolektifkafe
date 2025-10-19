@@ -43,7 +43,7 @@ export default function Tea() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">ADA ÇAYI</h4>
-                        <h6 className="font-bold text-xl">100 ₺</h6>
+                        <h6 className="font-bold text-xl">120 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -51,7 +51,7 @@ export default function Tea() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">YEŞİL ÇAY</h4>
-                        <h6 className="font-bold text-xl">100 ₺</h6>
+                        <h6 className="font-bold text-xl">120 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -59,7 +59,7 @@ export default function Tea() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">IHLAMUR</h4>
-                        <h6 className="font-bold text-xl">100 ₺</h6>
+                        <h6 className="font-bold text-xl">120 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -67,7 +67,7 @@ export default function Tea() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">NANE-LİMON</h4>
-                        <h6 className="font-bold text-xl">100 ₺</h6>
+                        <h6 className="font-bold text-xl">120 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -75,7 +75,7 @@ export default function Tea() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">PAPATYA ÇAYI</h4>
-                        <h6 className="font-bold text-xl">100 ₺</h6>
+                        <h6 className="font-bold text-xl">120 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -92,6 +92,14 @@ export default function Tea() {
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">KIŞ ÇAYI</h4>
                         <h6 className="font-bold text-xl">120 ₺</h6>
+                    </CardHeader>
+                </Card>
+
+                <Card className="rounded-xl bg-white shadow-lg shadow-gray-300 overflow-hidden">
+                    <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
+                    <CardHeader>
+                        <h4 className="text-base font-bold font-manrope">ATOM ÇAYI</h4>
+                        <h6 className="font-bold text-xl">150 ₺</h6>
                     </CardHeader>
                 </Card>
 

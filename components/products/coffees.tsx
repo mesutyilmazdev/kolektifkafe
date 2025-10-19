@@ -25,7 +25,7 @@ export default function Coffees() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold">TÜRK <br /> KAHVESİ</h4>
-                        <h6 className="font-bold text-xl">85 ₺</h6>
+                        <h6 className="font-bold text-xl">90 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -33,7 +33,7 @@ export default function Coffees() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold">TÜRK <br /> KAHVESİ <span className="font-thin text-slate-500">(sütlü)</span></h4>
-                        <h6 className="font-bold text-xl">90 ₺</h6>
+                        <h6 className="font-bold text-xl">95 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -41,7 +41,7 @@ export default function Coffees() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">MENENGİÇ KAHVESİ</h4>
-                        <h6 className="font-bold text-xl">90 ₺</h6>
+                        <h6 className="font-bold text-xl">100 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -49,7 +49,7 @@ export default function Coffees() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">DİBEK <br /> KAHVESİ</h4>
-                        <h6 className="font-bold text-xl">90 ₺</h6>
+                        <h6 className="font-bold text-xl">100 ₺</h6>
                     </CardHeader>
                 </Card>
 

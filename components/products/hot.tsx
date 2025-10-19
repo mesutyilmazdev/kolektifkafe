@@ -25,7 +25,7 @@ export default function Hot() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold">SALEP</h4>
-                        <h6 className="font-bold text-xl">100 ₺</h6>
+                        <h6 className="font-bold text-xl">130 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -41,7 +41,15 @@ export default function Hot() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">SICAK <br /> ÇİKOLATA</h4>
-                        <h6 className="font-bold text-xl">100 ₺</h6>
+                        <h6 className="font-bold text-xl">140 ₺</h6>
+                    </CardHeader>
+                </Card>
+
+                <Card className="rounded-xl bg-white shadow-lg shadow-gray-300 overflow-hidden">
+                    <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
+                    <CardHeader>
+                        <h4 className="text-base font-bold font-manrope">SICAK <br /> ÇİKOLATA<span className="font-thin text-slate-500">(meyveli)</span></h4>
+                        <h6 className="font-bold text-xl">150 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -49,7 +57,7 @@ export default function Hot() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">BALLI <br />SÜT</h4>
-                        <h6 className="font-bold text-xl">100 ₺</h6>
+                        <h6 className="font-bold text-xl">125 ₺</h6>
                     </CardHeader>
                 </Card>
 

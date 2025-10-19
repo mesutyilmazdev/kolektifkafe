@@ -12,7 +12,7 @@ export default function Home() {
       <meta property="og:title" content="Kolektif Kafe | Adıyaman" key="title" />
     </Head>
       <motion.div animate={{ opacity: 1 }} initial={{ opacity: 0 }} transition={{ duration: 1 }} >
-        <main className="flex flex-col min-h-screen justify-between items-center bg-slate-100">
+        <main className="flex flex-col min-h-screen justify-between items-center">
           <Headermain/>
           <Contentmain/>
           <Footer/>

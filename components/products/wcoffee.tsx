@@ -41,7 +41,7 @@ export default function Wcoffee() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold">AMERICANO</h4>
-                        <h6 className="font-bold text-xl">120 ₺</h6>
+                        <h6 className="font-bold text-xl">130 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -57,7 +57,7 @@ export default function Wcoffee() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold">CAFE LATTE</h4>
-                        <h6 className="font-bold text-xl">135 ₺</h6>
+                        <h6 className="font-bold text-xl">140 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -129,7 +129,7 @@ export default function Wcoffee() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold">CAPPUCCINO</h4>
-                        <h6 className="font-bold text-xl">135 ₺</h6>
+                        <h6 className="font-bold text-xl">140 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -161,7 +161,7 @@ export default function Wcoffee() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold">CARAMEL MACCHIATO</h4>
-                        <h6 className="font-bold text-xl">135 ₺</h6>
+                        <h6 className="font-bold text-xl">150 ₺</h6>
                     </CardHeader>
                 </Card>
 
