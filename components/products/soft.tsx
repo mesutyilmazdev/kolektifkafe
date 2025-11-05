@@ -25,7 +25,7 @@ export default function Soft() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold">SU</h4>
-                        <h6 className="font-bold text-xl">20 ₺</h6>
+                        <h6 className="font-bold text-xl">30 ₺</h6>
                     </CardHeader>
                 </Card>
 
