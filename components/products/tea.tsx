@@ -27,7 +27,7 @@ export default function Tea() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">ÇAY <span className="font-thin text-slate-400">(ince belli)</span></h4>
-                        <h6 className="font-bold text-xl">40 ₺</h6>
+                        <h6 className="font-bold text-xl">50 ₺</h6>
                     </CardHeader>
                 </Card>
 
@@ -35,7 +35,7 @@ export default function Tea() {
                     <Image src="/photo-loading-kolektif.png" width={180} height={180} alt="Kolektif Kafe Product" />
                     <CardHeader>
                         <h4 className="text-base font-bold font-manrope">ÇAY <span className="font-thin text-slate-400">(kupa)</span></h4>
-                        <h6 className="font-bold text-xl">80 ₺</h6>
+                        <h6 className="font-bold text-xl">90 ₺</h6>
                     </CardHeader>
                 </Card>
 
